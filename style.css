@@ -1,6 +1,6 @@
 body{
-	background-image: url("images/Bg.jpg");
-	/* background-repeat: no-repeat; (repetir fundo: não repetir)*/
+	background-image: url("Bg.jpg");
+	background-repeat: no-repeat; 
 }
 
 .topnav {
@@ -76,7 +76,7 @@ body{
   }
 
   #addToppings{
-	/* padding-left:30px; (preenchimento à esquerda)*/
+	padding-left:30px; 
 	width:150px;
 	height:100px;
 	border: none;
